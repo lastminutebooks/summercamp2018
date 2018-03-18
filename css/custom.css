@@ -1,0 +1,35 @@
+.bg {
+    background-image: url('/../images/banner.jpg');
+    height: 600px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#aef9ea;
+    color: black;
+    text-align: center;
+ }
+.container-fluid{
+    color: #ffffff;
+    background-color:#aef9ea;
+    
+}
+
+nav .brand-logo.center{
+    left: 49%;
+}
+nav-wrapper{
+    font-weight: bold;
+}
+.left .material-icons{
+    background-color: #58c3b9;
+}
+
+nav .brand-logo{
+    display: table;
+}
